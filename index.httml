@@ -1,19 +1,1 @@
-<!DOCTYPE html>
-<html>
-<head>
-<title>Owais Open World Racing</title>
-<link rel="stylesheet" href="style.css">
-</head>
 
-<body>
-
-<div id="info">
-🚗 Owais Open World Racing<br>
-W A S D = Drive | Space = Brake
-</div>
-
-<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
-<script src="game.js"></script>
-
-</body>
-</html>
